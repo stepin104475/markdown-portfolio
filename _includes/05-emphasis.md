@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*like to program in hacker rank:smile:*
+
+** love to learn python:heart:**
+
+_ wanted to be best coder :sparkles:_
+
+__ work for satisfaction:tada: __
