@@ -1,3 +1,3 @@
-[GitHub]
+[GitHub text] 
 
 (http://github.com)
