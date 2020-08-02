@@ -1,7 +1,7 @@
 
- 1 sociology
- 2 economy
- 3 geography
+ -sociology
+ -economy
+ -geography
  
  *english
  *kannada
